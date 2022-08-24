@@ -1,0 +1,16 @@
+*{
+    padding: 50px;
+    background-color: aqua;
+}
+#mydiv{
+    padding: 50px;
+    background-color: rgb(143, 238, 89);
+}
+#btn{
+    width: 200px;
+    height: 50px;
+    background-color: aliceblue;
+    font-weight: bold;
+    
+
+}
